@@ -20,7 +20,7 @@ AdMob: https://support.google.com/admob/answer/6128543?hl=en
 
 Google Analytics for Firebase: https://firebase.google.com/policies/analytics
 
-Firebase Crashlytics: https://firebase.google.com/policies/crashlytics
+
 
 Additionally, the app may ask for permission to save a picture of stats on disk if the user wants to share their stats. This picture will be saved locally on the user's device and will not be shared with anyone else without the user's explicit consent.
 
